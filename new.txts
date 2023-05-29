@@ -1,0 +1,14 @@
+1. Clone Repository:
+git clone https://github.com/kunalnandre/GAE.git
+
+2. shows current files in Repository:
+ls
+
+3. To Enter in Perticular File or Folder:
+cd GAE.py
+
+4. shows current files in Repository:
+ls
+
+5. Type to run perticular File:
+python GAE.py 
