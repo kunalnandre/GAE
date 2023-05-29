@@ -12,3 +12,6 @@ ls
 
 5. Type to run perticular File:
 python GAE.py 
+
+6. To exit from allready Run Files:
+rm -rf filename
