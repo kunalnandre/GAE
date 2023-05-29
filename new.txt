@@ -1,0 +1,14 @@
+1. Clone Repository:
+git clone https://github.com/kunalnandre/GAE.git
+
+2. shows repos files:
+ls
+
+3. 
+cd GAE
+
+4. 
+ls
+
+5.
+python gae.py 
